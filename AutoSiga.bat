@@ -1,0 +1,1 @@
+python siga_auto.py
